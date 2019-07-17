@@ -1,0 +1,3 @@
+Develop
+hi this is Mere
+hello new world of Python, very excited hahahha. 
